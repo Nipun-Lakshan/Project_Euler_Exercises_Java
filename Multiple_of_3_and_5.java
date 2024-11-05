@@ -9,5 +9,4 @@ class Multiple_of_3_and_5 {
         System.out.println("Sum of all the multiples of 3 and 5 :- " + total);
     }
 }
-
 /* Problem 01 */
