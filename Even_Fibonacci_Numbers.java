@@ -3,7 +3,7 @@ class Even_Fibonacci_Numbers {
         int num1 = 0;
         int num2 = 1;
         int total = 0;
-        int num3 = -1;
+        int num3;
         while (true) {
             num3 = num1 + num2;
             if (num3 > 4000000) {
